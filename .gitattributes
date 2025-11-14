@@ -1,2 +1,111 @@
-# Auto detect text files and perform LF normalization
-* text=auto
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<h1><B><Center>CHESS GAME</Center></B></h1>
+<body>
+    <table align="center" width =800 height="800" border="2">
+        
+        <tr>
+<td width="100" height="100" bgcolor="white"><center><img src="./images/download-removebg-preview (1).png" alt="" height="60" width="65"></center></td>
+<td width="100" height="100" bgcolor="red"><center><img src="./images/images-removebg-preview (1).png" alt=""height=60  width="65"></center></td>
+<td width="100" height="100" bgcolor="white"><center><img src="./images/download-removebg-preview.png" alt=""height="60 " width="65"></center></td>
+<td width="100" height="100" bgcolor="green"><center><img src="./images/kin-removebg-preview.png" alt="" height="60" width="65"></center></td>
+<td width="100" height="100" bgcolor="white"><center><img src="./images/q-removebg-preview.png" alt=""height="60 " width="65" ></center></td>
+<td width="100" height="100" bgcolor="green"><center><img src="./images/download-removebg-preview.png" alt=""height="60 " width="65" ></center></td>
+<td width="100" height="100" bgcolor="red"><center><img src="./images/images-removebg-preview (1).png" alt=""  height="60 " width="65"></center></td>
+<td width="100" height="100" bgcolor="green"><center><img src="./images/download-removebg-preview (1).png" alt="" height="60" width="65"></center></td>
+        </tr>
+        <tr>
+            <td width="100" height="100" bgcolor="green"><center><img src="./images/images-removebg-preview.png" alt=""height="60 " width="65"></center></td>
+            <td width="100" height="100" bgcolor="white"><center><img src="./images/images-removebg-preview.png" alt=""height="60 " width="65"></center></td>
+             <td width="100" height="100" bgcolor="green"><center><img src="./images/images-removebg-preview.png" alt=""height="60 " width="65"></center></td>
+            <td width="100" height="100" bgcolor="white"><center><img src="./images/images-removebg-preview.png" alt=""height="60 " width="65"></center></td>
+            <td width="100" height="100" bgcolor="green"><center><img src="./images/images-removebg-preview.png" alt=""height="60 " width="65"></center></td>
+            <td width="100" height="100" bgcolor="white"><center><img src="./images/images-removebg-preview.png" alt=""height="60 " width="65"></center></td>
+            <td width="100" height="100" bgcolor="green"><center><img src="./images/images-removebg-preview.png" alt=""height="60 " width="65"></center></td>
+            <td width="100" height="100" bgcolor="white"><center><img src="./images/images-removebg-preview.png" alt=""height="60 " width="65"></center></td>  
+        </tr>
+
+        <tr>
+<td width="100" height="100" bgcolor="white"></td>
+<td width="100" height="100" bgcolor="green"></td>
+<td width="100" height="100" bgcolor="white"></td>
+<td width="100" height="100" bgcolor="green"></td>
+<td width="100" height="100" bgcolor="white"></td>
+<td width="100" height="100" bgcolor="green"></td>
+<td width="100" height="100" bgcolor="white"></td>
+<td width="100" height="100" bgcolor="green"></td>  
+        </tr>
+
+        <tr>
+           <td width="100" height="100" bgcolor="green"></td>
+            <td width="100" height="100" bgcolor="white"></td>
+             <td width="100" height="100" bgcolor="green"></td>
+            <td width="100" height="100" bgcolor="white"></td>
+            <td width="100" height="100" bgcolor="green"></td>
+            <td width="100" height="100" bgcolor="white"></td>
+            <td width="100" height="100" bgcolor="green"></td>
+            <td width="100" height="100" bgcolor="white"></td>  
+        </tr>
+
+        <tr>
+<td width="100" height="100" bgcolor="white"></td>
+<td width="100" height="100" bgcolor="green"></td>
+<td width="100" height="100" bgcolor="white"></td>
+<td width="100" height="100" bgcolor="green"></td>
+<td width="100" height="100" bgcolor="white"></td>
+<td width="100" height="100" bgcolor="green"></td>
+<td width="100" height="100" bgcolor="white"></td>
+<td width="100" height="100" bgcolor="green"></td>  
+        </tr>
+
+<tr>
+            <td width="100" height="100" bgcolor="gren"></td>
+            <td width="100" height="100" bgcolor="white"></td>
+             <td width="100" height="100" bgcolor="green"></td>
+            <td width="100" height="100" bgcolor="white"></td>
+            <td width="100" height="100" bgcolor="green"></td>
+            <td width="100" height="100" bgcolor="white"></td>
+            <td width="100" height="100" bgcolor="green"></td>
+            <td width="100" height="100" bgcolor="white"></td>  
+</tr>
+
+<tr>
+
+<td width="100" height="100" bgcolor="white"><center><img src="./images/images-removebg-preview.png" alt=""height="60 " width="65"></center></td>
+<td width="100" height="100" bgcolor="green"><center><img src="./images/images-removebg-preview.png" alt=""height="60 " width="65"></center></td>
+<td width="100" height="100" bgcolor="white"><center><img src="./images/images-removebg-preview.png" alt=""height="60 " width="65"></center></td>
+<td width="100" height="100" bgcolor="green"><center><img src="./images/images-removebg-preview.png" alt=""height="60 " width="65"></center></td>
+<td width="100" height="100" bgcolor="white"><center><img src="./images/images-removebg-preview.png" alt=""height="60 " width="65"></center></td>
+<td width="100" height="100" bgcolor="green"><center><img src="./images//images-removebg-preview.png" alt=""height="60 " width="65"></center></td>
+<td width="100" height="100" bgcolor="white"><center><img src="./images/images-removebg-preview.png" alt=""height="60 " width="65"></center></td>
+<td width="100" height="100" bgcolor="green"><center><img src="./images/images-removebg-preview.png" alt=""height="60 " width="65"></center></td>
+</tr>
+
+<tr>
+   <td width="100" height="100" bgcolor="green"><center><img src="./images/download-removebg-preview (1).png" alt=""height="60 " width="65" ></center></td>
+            <td width="100" height="100" bgcolor="red"><center><img src="./images/images-removebg-preview (1).png" alt=""height="60 " width="65"></center></td>
+             <td width="100" height="100" bgcolor="green"><center><img src="./images/download-removebg-preview.png" alt=""height="60 " width="65"></center></td>
+            <td width="100" height="100" bgcolor="white"><center><img src="./images/kin-removebg-preview.png" alt=""height="60 " width="65"></center></td>
+            <td width="100" height="100" bgcolor="green"><center><img src="./images/q-removebg-preview.png" alt=""height="60 " width="65"></center></td>
+            <td width="100" height="100" bgcolor="white"><center><img src="./images/download-removebg-preview.png" alt=""height="60 " width="65"></center></td>
+            <td width="100" height="100" bgcolor="red"><center><img src="./images/images-removebg-preview (1).png" alt=""height="60 " width="65"></center></td>
+            <td width="100" height="100" bgcolor="white"><img src="./images/download-removebg-preview (1).png" alt=""height="60 " width="65"></td> 
+</tr>
+
+    </table>
+   
+
+       
+      
+
+       
+
+       
+</body>
+</html>
